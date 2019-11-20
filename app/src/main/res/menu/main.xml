@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delete"
+        android:visible="false"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_delete"
+        android:title="Delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/dryclean"
+        android:visible="true"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_dry_clean"
+        android:title="Dry Clean"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/select"
+        android:visible="true"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_select"
+        android:title="Select"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/wardrobe_add"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_add"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+</menu>

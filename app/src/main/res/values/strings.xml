@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WardrobeDiary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="appid_admob">ca-app-pub-0878868429532766~3048878639</string>
+    <string name="banner_ads">ca-app-pub-0878868429532766/3344036881</string>
+
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_bookmark">Bookmark</string>
+
+</resources>

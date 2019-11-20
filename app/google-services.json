@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "107489233664",
+    "firebase_url": "https://wardrobediary-e2448.firebaseio.com",
+    "project_id": "wardrobediary-e2448",
+    "storage_bucket": "wardrobediary-e2448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107489233664:android:f72c4442ebf0e28b",
+        "android_client_info": {
+          "package_name": "diary.wardrobe.com.wardrobediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107489233664-5egt9snr6rtgrp9gi3q6bd222tt4qn5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diary.wardrobe.com.wardrobediary",
+            "certificate_hash": "a2a5e8d17ca3abbc312f0253fb6c8b87e00ce798"
+          }
+        },
+        {
+          "client_id": "107489233664-dabfdh1a73tlafqq1ibfuib33tob73ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzj-Aax_kMyatQNZ7pP3H0r0spolwio4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107489233664-dabfdh1a73tlafqq1ibfuib33tob73ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
