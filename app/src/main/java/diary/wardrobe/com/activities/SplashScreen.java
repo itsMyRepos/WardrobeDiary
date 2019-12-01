@@ -24,6 +24,7 @@ public class SplashScreen extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         TextView myTextView=(TextView)findViewById(R.id.botom_desc);
+        //added comment for testing git
         TextView title=(TextView)findViewById(R.id.wardrobe_title);
         Typeface typeFace= Typeface.createFromAsset(getAssets(),"Roboto-Light.ttf");
         Typeface medium= Typeface.createFromAsset(getAssets(),"Roboto-Medium.ttf");
